@@ -1,0 +1,9 @@
+#title {
+    color: red;
+}
+.title {
+    font-size: 500%;
+}
+p > span{
+    color:aqua;
+}
